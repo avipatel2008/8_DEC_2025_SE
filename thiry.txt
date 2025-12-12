@@ -1,1 +1,1 @@
-version controlsystem :(vcs)
+version controlsystem :(vcs) gmcl 954<txt.1@.in>
